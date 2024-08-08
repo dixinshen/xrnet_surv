@@ -56,12 +56,6 @@ extend to other outcomes (i.e. survival) in the next release.
 
 # Installation
 
-#### From CRAN
-
-``` r
-install.packages("xrnet")
-```
-
 #### From Github (most up-to-date)
 
 1.  OS-specific prerequisites
@@ -79,11 +73,8 @@ install.packages("xrnet")
 <!-- end list -->
 
 ``` r
-# Master branch
-devtools::install_github("USCbiostats/xrnet")
-
 # Development branch
-devtools::install_github("USCbiostats/xrnet", ref = "development")
+devtools::install_github("dixinshen/xrnet_surv", ref = "xrnet_cox")
 ```
 
 # A First Example
