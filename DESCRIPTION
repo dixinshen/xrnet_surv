@@ -3,8 +3,8 @@ Type: Package
 Title: Hierarchical Regularized Regression
 Version: 0.1.7
 Authors@R: c(
-  person("Garrett", "Weaver", email = "gmweaver.usc@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-9918-8386")),
-  person("Juan Pablo", "Lewinger", email = "lewinger@usc.edu", role = c("ctb", "ths"))
+  person("Dixin", "Shen", email = "dixinshen@gmail.com", role = c("aut"), comment = c(ORCID = "0000-0002-2608-2775")),
+  person("Garrett", "Weaver", email = "gmweaver.usc@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-9918-8386"))
   )
 URL: https://github.com/USCbiostats/xrnet
 Description: Fits hierarchical regularized regression models
